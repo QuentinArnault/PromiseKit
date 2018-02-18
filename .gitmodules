@@ -28,9 +28,6 @@
 [submodule "Extensions/AssetsLibrary"]
 	path = Extensions/AssetsLibrary
 	url = https://github.com/PromiseKit/AssetsLibrary.git
-[submodule "Extensions/CoreLocation"]
-	path = Extensions/CoreLocation
-	url = https://github.com/PromiseKit/CoreLocation.git
 [submodule "Extensions/QuartzCore"]
 	path = Extensions/QuartzCore
 	url = https://github.com/PromiseKit/QuartzCore.git
@@ -61,3 +58,6 @@
 [submodule "Extensions/AVFoundation"]
 	path = Extensions/AVFoundation
 	url = https://github.com/PromiseKit/AVFoundation
+[submodule "Extensions/CoreLocation"]
+	path = Extensions/CoreLocation
+	url = https://github.com/QuentinArnault/CoreLocation.git
