@@ -58,6 +58,3 @@
 [submodule "Extensions/AVFoundation"]
 	path = Extensions/AVFoundation
 	url = https://github.com/PromiseKit/AVFoundation
-[submodule "Extensions/CoreLocation"]
-	path = Extensions/CoreLocation
-	url = https://github.com/QuentinArnault/CoreLocation.git
